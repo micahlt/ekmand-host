@@ -1,0 +1,14 @@
+{
+  "name": "ekmand-host",
+  "version": "1.0.0",
+  "description": "Free website creation and hosting",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Ethan Dutson, Micah Lindley",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
